@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SuperAuto.BLL</RootNamespace>
+    <AssemblyName>SuperAuto.BLL</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adbanner.cs" />
+    <Compile Include="Admin.cs" />
+    <Compile Include="Advertising.cs" />
+    <Compile Include="Article.cs" />
+    <Compile Include="Article_type.cs" />
+    <Compile Include="CardGame.cs" />
+    <Compile Include="Catalog.cs" />
+    <Compile Include="Channel.cs" />
+    <Compile Include="contant.cs" />
+    <Compile Include="Dealer.cs" />
+    <Compile Include="DirectoryGoods.cs" />
+    <Compile Include="ExtendGame.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Links.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="Means.cs" />
+    <Compile Include="MenuDirectory.cs" />
+    <Compile Include="Messages.cs" />
+    <Compile Include="Pchannel.cs" />
+    <Compile Include="Pgame.cs" />
+    <Compile Include="Products.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protocol.cs" />
+    <Compile Include="Report.cs" />
+    <Compile Include="ReportAccounts.cs" />
+    <Compile Include="ReportSet.cs" />
+    <Compile Include="ReportTemp.cs" />
+    <Compile Include="ReportTempMain.cs" />
+    <Compile Include="SqlSet.cs" />
+    <Compile Include="Tag.cs" />
+    <Compile Include="TagCategory.cs" />
+    <Compile Include="theme.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="Video.cs" />
+    <Compile Include="WebSet.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Goods.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Spread.Common\Spread.Common.csproj">
+      <Project>{E3E56869-D5EF-4248-A00B-45D95621D9A2}</Project>
+      <Name>SuperAuto.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spread.DAL\Spread.DAL.csproj">
+      <Project>{C0A2FCBD-E126-4A5F-A375-EA8702A4AB2C}</Project>
+      <Name>SuperAuto.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spread.Model\Spread.Model.csproj">
+      <Project>{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}</Project>
+      <Name>SuperAuto.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
