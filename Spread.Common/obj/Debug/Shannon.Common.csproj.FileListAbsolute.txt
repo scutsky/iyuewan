@@ -1,0 +1,65 @@
+D:\WEB\ShannonTaoBao\Shannon.Common\bin\Debug\Shannon.Common.dll
+D:\WEB\ShannonTaoBao\Shannon.Common\bin\Debug\Shannon.Common.pdb
+D:\WEB\ShannonTaoBao\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\ShannonTaoBao\Shannon.Common\obj\Debug\Shannon.Common.dll
+D:\WEB\ShannonTaoBao\Shannon.Common\obj\Debug\Shannon.Common.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.Common\bin\Debug\Shannon.Common.dll
+F:\开发\项目\ShannonTaoBao\Shannon.Common\bin\Debug\Shannon.Common.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\开发\项目\ShannonTaoBao\Shannon.Common\obj\Debug\Shannon.Common.dll
+F:\开发\项目\ShannonTaoBao\Shannon.Common\obj\Debug\Shannon.Common.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.Common\bin\Debug\PanGu.dll
+F:\开发\项目\ShannonTaoBao\Shannon.Common\bin\Debug\PanGu.pdb
+D:\WEB\ShannonTaoBao\Shannon.Common\bin\Debug\PanGu.dll
+D:\WEB\ShannonTaoBao\Shannon.Common\bin\Debug\PanGu.pdb
+D:\sdd\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\sdd\Shannon.Common\obj\Debug\Shannon.Common.dll
+D:\sdd\Shannon.Common\obj\Debug\Shannon.Common.pdb
+D:\sdd\Shannon.Common\bin\Debug\Shannon.Common.dll
+D:\sdd\Shannon.Common\bin\Debug\Shannon.Common.pdb
+D:\sdd\Shannon.Common\bin\Debug\PanGu.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Common\bin\Debug\Shannon.Common.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Common\bin\Debug\Shannon.Common.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Common\bin\Debug\PanGu.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Common\obj\Debug\Shannon.Common.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Common\obj\Debug\Shannon.Common.pdb
+E:\Shannon\Shannon.Common\bin\Debug\Shannon.Common.dll
+E:\Shannon\Shannon.Common\bin\Debug\Shannon.Common.pdb
+E:\Shannon\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Shannon\Shannon.Common\obj\Debug\Shannon.Common.dll
+E:\Shannon\Shannon.Common\obj\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(4)\Shannon.Common\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(4)\Shannon.Common\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(4)\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(4)\Shannon.Common\obj\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(4)\Shannon.Common\obj\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(7)\Shannon.Common\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(7)\Shannon.Common\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(7)\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(7)\Shannon.Common\obj\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(7)\Shannon.Common\obj\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.Common\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.Common\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.Common\obj\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.Common\obj\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Common\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Common\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Common\obj\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Common\obj\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Common\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Common\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Common\obj\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Common\obj\Debug\Shannon.Common.pdb
+F:\JobWeb\Shannon\Shannon.Common\bin\Debug\Shannon.Common.dll
+F:\JobWeb\Shannon\Shannon.Common\bin\Debug\Shannon.Common.pdb
+F:\JobWeb\Shannon\Shannon.Common\obj\Debug\Shannon.Common.dll
+F:\JobWeb\Shannon\Shannon.Common\obj\Debug\Shannon.Common.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Common\bin\Debug\Shannon.Common.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Common\bin\Debug\Shannon.Common.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Common\obj\Debug\Shannon.Common.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Common\obj\Debug\Shannon.Common.pdb
