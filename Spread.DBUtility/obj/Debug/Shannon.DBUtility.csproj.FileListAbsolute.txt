@@ -1,0 +1,76 @@
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\bin\Debug\PanGu.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\bin\Debug\PanGu.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DBUtility\bin\Debug\PanGu.pdb
+D:\WEB\ShannonTaoBao\Shannon.DBUtility\bin\Debug\PanGu.pdb
+D:\sdd\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+D:\sdd\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+D:\sdd\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+D:\sdd\Shannon.DBUtility\bin\Debug\PanGu.dll
+D:\sdd\Shannon.DBUtility\bin\Debug\PanGu.pdb
+D:\sdd\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+D:\sdd\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\sdd\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+D:\sdd\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\bin\Debug\PanGu.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\bin\Debug\PanGu.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+E:\Shannon\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+E:\Shannon\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+E:\Shannon\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+E:\Shannon\Shannon.DBUtility\bin\Debug\PanGu.dll
+E:\Shannon\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+E:\Shannon\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+E:\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\bin\Debug\PanGu.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\bin\Debug\PanGu.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+F:\JobWeb\Shannon\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+F:\JobWeb\Shannon\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+F:\JobWeb\Shannon\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+F:\JobWeb\Shannon\Shannon.DBUtility\bin\Debug\PanGu.dll
+F:\JobWeb\Shannon\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+F:\JobWeb\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.csprojResolveAssemblyReference.cache
+F:\JobWeb\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+F:\JobWeb\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\bin\Debug\Shannon.DBUtility.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\bin\Debug\Shannon.Common.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\bin\Debug\PanGu.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\bin\Debug\Shannon.Common.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DBUtility\obj\Debug\Shannon.DBUtility.pdb
