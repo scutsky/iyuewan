@@ -1,0 +1,40 @@
+
+/*焦点图*/
+.Focus{ height:400px; margin: 2px auto 8px; position:relative;}
+.Focus .slide-box{ position:relative; height: 100%;}
+.Focus .slide-box li{ background-repeat:no-repeat;width:100%;height:100%; position:absolute;left:0px;top:0px;opacity:0;filter:alpha(opacity=0);}
+.Focus .slide-box li a{width:100%;height:100%; display:block;position:absolute;left:0px;top:0px;z-index:2}
+.Focus .slide-nav{width:100%; height:20px; padding-top:5px; position:absolute;bottom:5px;left:0px;z-index:11}
+.Focus .slide-nav .slide-nav-box{ text-align:center;}
+.Focus .slide-nav .slide-nav-box a{width:30px; height:8px; background:#fff; margin:0 5px; display:inline-block;}
+.Focus .slide-nav .slide-nav-box a.cur{ background:#268ae8;}
+
+/*内容*/
+.actile{ background: #fff; margin-top: 20px; padding: 20px 15px 0 25px; overflow: hidden; zoom: 1;}
+.actile .txt{ width: 750px;}
+.actile .txt h1{ font-size: 24px; padding-bottom: 25px;}
+.actile .txt p{ font-size: 14px; padding-bottom: 25px; line-height: 24px;}
+.actile .pic{ width: 190px; padding-left: 20px;}
+.actile .pic a{ display: block; margin-bottom: 20px;}
+
+.item-list{ background: #102a5e; height: 198px; overflow: hidden;}
+.item-list li{ float: left; height: 130px; margin: 19px 0 0 15px; color: #fff; padding: 15px;}
+.item-list li h2{ font-size: 18px; font-weight: normal; padding-bottom: 15px;}
+.item-list li h2 a{ background: url(../images/com/more.png) right center no-repeat; width: 320px; height: 22px; line-height: 22px; display: block; color: #fff;}
+
+.item-list .box1{ background: url(../images/com/bd1.jpg) no-repeat; width: 320px;}
+.item-list .box2{ background: url(../images/com/bd2.jpg) no-repeat; width: 320px;}
+.item-list .box3{ background: url(../images/com/bd3.jpg) no-repeat; width: 210px;}
+
+.item-list .box1 p{ padding: 0 0 0 125px; line-height: 22px;}
+
+.item-list .box2 p{ line-height: 22px; position: relative; overflow: hidden; zoom: 1;}
+.item-list .box2 p a{ line-height: 22px; color: #fff;}
+.item-list .box2 p span{ padding-left: 8px;}
+.item-list .box2 p i{ background: url(../images/com/i-con1.png) no-repeat -137px 0; width: 3px; height: 3px; position: absolute; left: 0; top: 10px;}
+
+.item-list .box3 h3{ font-size: 18px; font-weight: normal; padding-bottom: 5px;}
+.item-list .box3 dt{ float: left; width: 140px;}
+.item-list .box3 dt .ipt{ width: 130px; height: 21px; line-height: 21px; padding: 0 5px; border: 0 none; background: url(../images/com/i-con1.png) no-repeat 0 -54px; margin-bottom: 6px;}
+.item-list .box3 dd{ float: left; width: 70px;}
+.item-list .box3 dd .btn{ background: url(../images/com/i-con1.png) no-repeat 0 -86px; width: 70px; height: 58px; border: 0 none; cursor: pointer; position: relative; top: 23px; left: 7px;}

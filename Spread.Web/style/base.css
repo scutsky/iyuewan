@@ -1,0 +1,59 @@
+
+/*
+------------------
+Site:全局样式
+------------------
+*/
+
+/*reset*/
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { margin: 0; padding: 0;}
+table { border-collapse: collapse; border-spacing: 0;}
+fieldset, img { border: 0;}
+em, strong,i{ font-style: normal;}
+ol, ul, li { list-style: none;}
+caption, th { text-align: left;}
+input, button, textarea, select, optgroup, option { font-family: arial; font-size: inherit; font-style: inherit; font-weight: inherit;}
+select, input, label, button, button img, img {vertical-align: middle;}
+input, button, textarea, img { line-height: normal;}
+.clearfix{ clear: left;}
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+
+/*主体*/
+body{ font: 12px/1.5 arial; color:#666;}
+a{ color: #666; text-decoration: none}
+a:hover{ color: #39606f; text-decoration: none;}
+:focus { outline: 0;}
+.hide{ display: none;}
+.fl{ float:left;}
+.fr{ float:right;}
+.tc{ text-align: center;}
+.col-00{ color: #000000;}/*黑色*/
+.col-01{ color: #01499b;}/*蓝色*/
+
+.layout{ width: 1000px; margin-left: auto; margin-right: auto;}
+.layout2{ width: 1000px; margin-left: auto; margin-right: auto;}
+/*头部*/
+.wrap-top{ background: url(../images/com/wrap-top.jpg) center 0 no-repeat #034488; height: 95px;}
+.wrap-top .layout{ background: url(../images/com/top.jpg) no-repeat; height: 95px;}
+.wrap-top .layout2{ background: url(../images/com/en_top.jpg) no-repeat; height: 95px;}
+.wrap-top .logo a{ width: 510px; height: 95px; display: block; z-index: 10; text-indent: -9999em;}
+.wrap-top .icon-box{ width: 205px; margin: 0 50px 0 0;}
+.wrap-top .icon-box a{ float: left; display: block; z-index:15}
+.wrap-top .icon-box .icon{ width: 30px; height: 30px; margin: 35px 6px 0 0;}
+.wrap-top .icon-box .english{ width: 71px; height: 21px; margin: 40px 0 0 132px; color:#FFF;  padding-top:2px; padding-left:4px;}
+.wrap-nav{ background: url(../images/com/line1x48.png) repeat-x; height: 48px; margin-bottom: 5px;  z-index:1;}
+.wrap-nav li{ position:relative; width: 94px; height: 41px; float: left; display: inline; text-align: center; margin-right: 10px;z-index:9999;}
+.wrap-nav li a{ display: block; font: bold 14px/41px "微软雅黑"; color: #fff;}
+.wrap-nav li.cur,.wrap-nav li:hover{ background: url(../images/com/i-con1.png) 0 0 no-repeat;}
+.wrap-nav li ul{ display:none;  background:#06AAE6;font: bold 14px/41px "微软雅黑"; color: #fff;  position:absolute; top:40px; left:0px; z-index:9999;}
+.wrap-nav li ul li{width:94px; padding:0px; margin:0; }
+.wrap-nav li ul li:hover{ background:#037ED7;}
+.wrap-nav li:hover ul{display:block;}
+
+/*尾部*/
+.R-footer{ background: url(../images/com/line1x164.png) repeat-x; margin-top: 10px;}
+.R-footer .hd-list{ padding: 30px 3px 0; height: 134px; overflow: hidden;}
+.R-footer .hd-list li{ float: left; width: 100px; padding-left: 42px; color: #fff;}
+.R-footer .hd-list li h3{ font-size: 12px; padding-bottom: 8px;}
+.R-footer .hd-list li a{ display: block; color: #fff; padding-bottom: 3px;}
+.R-footer .copy-right{ padding: 20px 0; color: #3a98e2;}

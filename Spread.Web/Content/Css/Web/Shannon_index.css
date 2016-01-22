@@ -1,0 +1,13 @@
+﻿/*index_menu*/
+#menu{width:100%;}
+#menu .menu_box{width:1000px;height:36px;margin:auto;position:relative;text-align:left;overflow:hidden; background:url('/content/images/web/menubar_.gif') no-repeat 0 4px;}
+#menu .menu_link{height:36px; float:left; }
+
+#menu .menu_link span{ width:16px; height:36px;}
+#menu .menu_link a{float:left;margin-right:2px;display:inline-block; margin-top:4px;}
+#menu .menu_link a h2{float:left;height:32px;padding:0 20px;line-height:32px;font-size:12px;color:#fff;cursor:pointer;overflow:hidden;}
+#menu .menu_link a:hover{ text-decoration:underline;}
+#menu .menu_link a:hover h2{color:#fff; text-decoration:underline;}
+#menu .menu_link a.onselect,#menu .menu_link a.onselect:hover{position:relative; margin-top:0px!important; background:#FFF url('/content/images/web/imgs_button.gif') no-repeat;}
+#menu .menu_link a.onselect h2,#menu .menu_link a.onselect:hover h2{height:36px;font-size:14px; line-height:38px;color:#333;background:url('/content/images/web/imgs_button.gif') no-repeat right -36px;}
+

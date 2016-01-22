@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+html, body{height:100%;}
+body { margin:0px; font-size:12px; font-family:"宋体"; padding:0px;}
+
+td,th { height:20px; line-height:18px;  font-size:12px; border:1px solid #F3FAFC; color:#0C7A92; padding:2px; }
+ 
+.tb{ background:url(../Images/tb.jpg) repeat-x left top; color:#0C7A92; font-weight:bold; text-align:center;}
+a:link,a:visited{ font-size:12px; color:#0C7A92; text-decoration:none;}
+a:hover{font-size:12px; color:#FF6600; text-decoration:underline;}
+.inpt{border:1px #3F98B1 solid !important;}
+.inpt:hover{border:1px #FC3C0C solid !important; background:#FFF2EE;}
+.button_on { background:url("/images/button_bg.gif"); border:1px solid #3F98B1; padding:2px;}
+.button_on:hover{border:1px solid #FC3C0C;}

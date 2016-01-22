@@ -1,0 +1,5 @@
+<%@ Register assembly="FredCK.FCKeditorV2" namespace="FredCK.FCKeditorV2" tagprefix="FCKeditorV2" %>
+  <div id="gha"  Styles="float:left;margin-left:20px;dislpay:block;width:95%;height:890px;" ><FCKeditorV2:FCKeditor 
+            ID="jj" Width="890px" Height="890px" runat="server" BasePath="~/fckeditor/">
+        </FCKeditorV2:FCKeditor>
+        </div>

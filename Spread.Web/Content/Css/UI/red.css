@@ -1,0 +1,194 @@
+/* 
+@ 主题名称：red
+深色：#ae101f
+主色：#da0026
+淡色：#f1273a
+亮色：#ffe6e3
+极浅：#fff6f5
+*/
+
+/* 链接 */
+a{ text-decoration:none;color: #3e3e3e;}
+a:hover {text-decoration:none;text-shadow:0 0 10px #fff;color:#da0026;}
+a:active {text-decoration:underline;color:#da0026;}
+a:focus {text-decoration:underline;box-shadow:0 0 15px #fff;text-shadow:0 0 15px #fff;color:#da0026;}
+
+
+
+.thm-btn2 { overflow: hidden;display: inline-block; *display: inline; *zoom: 1; vertical-align: top; text-align: center;}
+.thm-btn2:hover,.thm-btn2-hover {text-decoration:none;}
+/* 按钮2 */
+.thm-btn2 {
+	border: 1px solid #ae101f;border-radius: 3px;
+		color: #ffffff;
+	background-image: -webkit-linear-gradient(top, #da0026, #ae101f);
+}
+.thm-btn2:hover,.thm-btn2-hover {
+	border: 1px solid #ae101f;border-radius: 3px;
+	background: #da0026;
+	filter:progid:DXImageTransform.Microsoft.Gradient(Enabled=false);
+	color: #ffffff;
+}
+
+/* 小元件======================================================== */
+.btn-like em {border-right-color: #da0026;}
+/* 分页 */
+.yiiPager .selected a,.yiiPager .selected a:hover{border-color:#da0026;background-color: #da0026;}
+.yiiPager li a:hover {border-color: #da0026;color:#da0026;}
+/* 宝贝分类导航 */
+.nav-wrap {border-bottom-color: #ffe6e3; background: #fff6f5; box-shadow: 0 2px 5px rgba(211,32,49,.08);}
+.nav-catagory .nav-item a:hover {background-color: #ffe6e3; color: #da0026;}
+
+
+/* 吊顶用户名 */
+.site-top .user-name a { color: #da0026;}
+
+/* 页头搜索栏 */
+#cu-searchBox{border-color: #da0026;}
+#cu-searchBox .menu .current { background-color: #da0026;}
+#cu-searchBox .search-text{border-color: #da0026;}
+#cu-searchBox .search-btn{background-color:#da0026;}
+#cu-searchBox .search-btn:hover{background-color:#f1273a;}
+#cu-search-hot a.high-light {color: #da0026;}
+#cu-search-hot a:hover {color: #da0026;}
+
+
+/* 导航栏 */
+#nav {background: #da0026;}
+.cu-navigation .selected, .cu-navigation .selected:hover {background-color: #ae101f;}
+.cu-menu .recommend {background-color: #f1273a;}
+.cu-navigation li a:hover,
+.cu-menu .profile:hover,.cu-menu .recommend:hover { background-color: #ae101f;}
+
+
+/* 首页 ============================================================ */
+
+/* 首页栏目标题颜色 */
+.cu-box .cu-box-title span{color:#da0026;}
+
+/* 首页官方公告下方列表 */
+.news-list li .special {color: #da0026;}
+
+/* 活动预告日历 */
+#cu-calendar .ks-switchable-nav { background-color: #fffaf6;}
+#cu-calendar .ks-switchable-nav li.ks-active, #cu-calendar .ks-switchable-nav li.ks-active a {background-color:#da0026;color: #fff;}
+
+/* 用户区域登陆后 */
+.cuxiao-user{ background-color: #fff6f5;}
+.cuxiao-user .cnt .username a { color: #da0026;}
+.cuxiao-user .cnt .lnks a{background-color:#FFD8D8;color:#F56969;background-color:#ffe6e3;color:#da0026;}
+.cuxiao-user .cnt .lnks a:hover{ background: #da0026;}
+
+/* 首页楼层 */
+.cu-floor .cu-floor-hd{border-top-color: 2px solid #da0026; color: #da0026;}
+.cu-floor .cu-floor-hd h2 a { color: #da0026;}
+.cu-floor-more:hover {color: #da0026;}
+.cu-floor-more em {color: #da0026;}
+/* 关键词 */
+.cu-floor-keywod-list li .special,.mingzhan-floor .cu-floor-keywod-list li a:hover span,.cu-floor-keywod-list li a:hover {color: #da0026;}
+/* 文字列表 */
+.cu-sub-info .text-info-list li a:hover, .cu-sub-info .short-text-info-list li a:hover {color: #da0026;}
+/* 商品价格 */
+.cu-sub-gds .itm .price { color: #da0026;}
+/*品牌右侧更多链接*/
+.cu-floor-brands .cu-floor-brands-more:hover {color: #da0026;}
+.cu-floor-brands .cu-floor-brands-more em {color: #da0026;}
+
+/* 底部guide栏目 */
+.cu-helper { border-top-color: #da0026;}
+
+/* 楼层悬浮控制块 */
+#sidebar li a:hover{color: #da0026;}
+#sidebar .survey a{color: #da0026;}
+
+
+
+/* 通用左边栏 ============================================================ */
+.box-cuxiao .hd-box-cuxiao h2{color: #da0026;}
+.box-cuxiao .hd-box-cuxiao .more-box-cuxiao:hover{ color: #da0026;}
+.box-cuxiao .hd-box-cuxiao .more-box-cuxiao em { color: #da0026;}
+
+/* 二级菜单 */
+.side-menu .menu-list li.current { background: #ffe6e3;}
+.side-menu .menu-list li.current a { color: #da0026;}
+.side-menu .menu-list li.current a:hover { color: #da0026;}
+
+/* 热门促销 */
+.hot-events-list li p a:hover {color: #da0026;}
+.hot-events-list li.fir h4 a {color: #da0026;}
+.hot-events-list li h4 a:hover {color: #da0026;}
+
+/* 热门标签 */
+.hot-tag dd a:hover {color: #da0026;}
+
+
+
+/* 活动列表页面 ============================================================ */
+/* 分类tab导航 */
+.info-catagory dd a:hover {color: #da0026;}
+.info-catagory dd .selected{background-color: #da0026;}
+
+/* 关键词 */
+.info-keyword li a.selected, .info-keyword li a:hover {color: #da0026;}
+
+/* 活动列表标题 */
+.category-list-info .category-text {color: #da0026;}
+.category-list-info em {color: #da0026;}
+.category-list-info .total {color: #da0026;}
+
+/* 列表内容 */
+.info-list .info-description a:hover {color: #da0026;}
+.info-brand-discount .info-discount {color: #da0026;}
+.info-brand-discount .info-discount a {color: #da0026;}
+.info-list .info-description a:hover {color: #da0026;}
+
+/* 列表底部链接 */
+.cu-bottom-tips a {color: #da0026;}
+
+
+
+/* 商品列表 ============================================================ */
+/*列表筛选器*/
+.filter .hd .tit strong { color: #da0026;}
+.filter dd .current { background-color: #da0026;}
+
+/* 排序 */
+.gdslst .hd .px .current,.gdslst .hd .px .current a { color: #da0026;}
+
+/* 商品价格 */
+.glst .itm .price { color: #da0026;}
+
+
+
+/* 详情页面 ============================================================ */
+/* 主体容器 */
+.gdetail .bd { border-top-color: #da0026;}
+
+/* 商品大图下方购买按钮背景 */
+.gdetail .gds-info .pic .buy-box{ background: #fffaf6;}
+
+
+/* 活动详情 ============================================================ */
+/* 主体容器 */
+.pdetail .bd { border-top-color: #da0026;}
+
+
+
+/* 品牌首页 ============================================================ */
+/* 更多链接 */
+.brand-box-hd .more em { color: #da0026;}
+
+/* 正文 */
+.brand-box-list em {color: #da0026;}
+
+
+/* 店铺列表 ============================================================ */
+.shop-list .itm .cnt .meta em { color: #da0026;}
+
+
+/* 会员中心 */
+.user-info .user-nav li a.current {background-color: #da0026;}
+.user-info .user-nav li em {color: #da0026;}
+.userbox h2 em { color: #da0026;}
+.myfav-shop .lst .itm .meta em { color: #da0026;}
+.myfav-goods .lst .itm .price {color:#da0026;}
