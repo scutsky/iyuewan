@@ -1,0 +1,44 @@
+D:\WEB\ShannonTaoBao\Shannon.Model\bin\Debug\Shannon.Model.dll
+D:\WEB\ShannonTaoBao\Shannon.Model\bin\Debug\Shannon.Model.pdb
+D:\WEB\ShannonTaoBao\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\ShannonTaoBao\Shannon.Model\obj\Debug\Shannon.Model.dll
+D:\WEB\ShannonTaoBao\Shannon.Model\obj\Debug\Shannon.Model.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.Model\bin\Debug\Shannon.Model.dll
+F:\开发\项目\ShannonTaoBao\Shannon.Model\bin\Debug\Shannon.Model.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\开发\项目\ShannonTaoBao\Shannon.Model\obj\Debug\Shannon.Model.dll
+F:\开发\项目\ShannonTaoBao\Shannon.Model\obj\Debug\Shannon.Model.pdb
+D:\sdd\Shannon.Model\bin\Debug\Shannon.Model.dll
+D:\sdd\Shannon.Model\bin\Debug\Shannon.Model.pdb
+D:\sdd\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\sdd\Shannon.Model\obj\Debug\Shannon.Model.dll
+D:\sdd\Shannon.Model\obj\Debug\Shannon.Model.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Model\bin\Debug\Shannon.Model.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Model\bin\Debug\Shannon.Model.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Model\obj\Debug\Shannon.Model.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.Model\obj\Debug\Shannon.Model.pdb
+E:\Shannon\Shannon.Model\bin\Debug\Shannon.Model.dll
+E:\Shannon\Shannon.Model\bin\Debug\Shannon.Model.pdb
+E:\Shannon\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Shannon\Shannon.Model\obj\Debug\Shannon.Model.dll
+E:\Shannon\Shannon.Model\obj\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Model\bin\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Model\bin\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Model\obj\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.Model\obj\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Model\bin\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Model\bin\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Model\obj\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.Model\obj\Debug\Shannon.Model.pdb
+F:\JobWeb\Shannon\Shannon.Model\bin\Debug\Shannon.Model.dll
+F:\JobWeb\Shannon\Shannon.Model\bin\Debug\Shannon.Model.pdb
+F:\JobWeb\Shannon\Shannon.Model\obj\Debug\Shannon.Model.dll
+F:\JobWeb\Shannon\Shannon.Model\obj\Debug\Shannon.Model.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Model\bin\Debug\Shannon.Model.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Model\bin\Debug\Shannon.Model.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Model\obj\Debug\Shannon.Model.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.Model\obj\Debug\Shannon.Model.pdb
