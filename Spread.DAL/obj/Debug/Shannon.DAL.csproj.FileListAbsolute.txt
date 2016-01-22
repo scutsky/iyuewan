@@ -1,0 +1,124 @@
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+D:\WEB\ShannonTaoBao\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\ShannonTaoBao\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+D:\WEB\ShannonTaoBao\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Common.dll
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Model.dll
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Common.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Model.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\PanGu.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\PanGu.dll
+F:\开发\项目\ShannonTaoBao\Shannon.DAL\bin\Debug\PanGu.pdb
+D:\WEB\ShannonTaoBao\Shannon.DAL\bin\Debug\PanGu.pdb
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.Common.dll
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.Model.dll
+D:\sdd\Shannon.DAL\bin\Debug\PanGu.dll
+D:\sdd\Shannon.DAL\bin\Debug\PanGu.pdb
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+D:\sdd\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+D:\sdd\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\sdd\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+D:\sdd\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.Common.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.Model.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\PanGu.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\PanGu.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+E:\项目\未分类\完美+asp.net+版+淘宝客程序\ShannonTBK\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.Common.dll
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.Model.dll
+E:\Shannon\Shannon.DAL\bin\Debug\PanGu.dll
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+E:\Shannon\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+E:\Shannon\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+E:\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\PanGu.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(10)\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\PanGu.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(12)\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.Model.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\PanGu.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\ShannonTaoBao(1)\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.Common.dll
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.Model.dll
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\PanGu.dll
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+F:\JobWeb\Shannon\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+F:\JobWeb\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.csprojResolveAssemblyReference.cache
+F:\JobWeb\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+F:\JobWeb\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.DAL.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.DAL.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.Common.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.DBUtility.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.Model.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\PanGu.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.Common.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.DBUtility.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\bin\Debug\Shannon.Model.pdb
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.dll
+D:\Project\SuperAuto\SourceCode\Shannon20141225\Shannon\Shannon.DAL\obj\Debug\Shannon.DAL.pdb
