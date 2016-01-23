@@ -1,0 +1,16 @@
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.Web.UI.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.Web.UI.pdb
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.BLL.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.Common.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.Model.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.DAL.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\PanGu.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.DBUtility.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.BLL.pdb
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.Common.pdb
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.Model.pdb
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.DAL.pdb
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\bin\Debug\SuperAuto.DBUtility.pdb
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\obj\Debug\SuperAuto.Web.UI.dll
+D:\Project\SuperAuto\SourceCode\Shannon\SuperAuto.Web.UI\obj\Debug\SuperAuto.Web.UI.pdb

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{FBD99DD5-FB9C-443F-A362-78700C2E6163}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>SuperAuto.Web.UI</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>SuperAuto.Web.UI</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ControlBasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageThumbnailMake.cs" />
+    <Compile Include="ImageWaterMark.cs" />
+    <Compile Include="ManagePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpLoad.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Spread.BLL\Spread.BLL.csproj">
+      <Project>{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}</Project>
+      <Name>SuperAuto.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spread.Common\Spread.Common.csproj">
+      <Project>{E3E56869-D5EF-4248-A00B-45D95621D9A2}</Project>
+      <Name>SuperAuto.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Spread.Model\Spread.Model.csproj">
+      <Project>{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}</Project>
+      <Name>SuperAuto.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
