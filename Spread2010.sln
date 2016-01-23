@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.Web", "Spread.Web\Spread.Web.csproj", "{2A74642B-3752-495E-8816-DF5699BF2341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.BLL", "Spread.BLL\Spread.BLL.csproj", "{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.Common", "Spread.Common\Spread.Common.csproj", "{E3E56869-D5EF-4248-A00B-45D95621D9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.DAL", "Spread.DAL\Spread.DAL.csproj", "{C0A2FCBD-E126-4A5F-A375-EA8702A4AB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.DBUtility", "Spread.DBUtility\Spread.DBUtility.csproj", "{DECC55DA-50E4-461E-A39C-5FC7754D812C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.Model", "Spread.Model\Spread.Model.csproj", "{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spread.Web.UI", "Spread.Web.UI\Spread.Web.UI.csproj", "{FBD99DD5-FB9C-443F-A362-78700C2E6163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A74642B-3752-495E-8816-DF5699BF2341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A74642B-3752-495E-8816-DF5699BF2341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A74642B-3752-495E-8816-DF5699BF2341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A74642B-3752-495E-8816-DF5699BF2341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563B3A07-5583-4C7D-8033-5BBA1C9B3A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E56869-D5EF-4248-A00B-45D95621D9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E56869-D5EF-4248-A00B-45D95621D9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E56869-D5EF-4248-A00B-45D95621D9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E56869-D5EF-4248-A00B-45D95621D9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A2FCBD-E126-4A5F-A375-EA8702A4AB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A2FCBD-E126-4A5F-A375-EA8702A4AB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A2FCBD-E126-4A5F-A375-EA8702A4AB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A2FCBD-E126-4A5F-A375-EA8702A4AB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECC55DA-50E4-461E-A39C-5FC7754D812C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECC55DA-50E4-461E-A39C-5FC7754D812C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECC55DA-50E4-461E-A39C-5FC7754D812C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECC55DA-50E4-461E-A39C-5FC7754D812C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E63D7CC-1672-42A2-95E0-FD4EFF6D9ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBD99DD5-FB9C-443F-A362-78700C2E6163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD99DD5-FB9C-443F-A362-78700C2E6163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD99DD5-FB9C-443F-A362-78700C2E6163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD99DD5-FB9C-443F-A362-78700C2E6163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
